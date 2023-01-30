@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ezraknotlab.github.io/</id>
+    <title>EzraKnotLab</title>
+    <updated>2023-01-30T02:39:46.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ezraknotlab.github.io/"/>
+    <link rel="self" href="https://ezraknotlab.github.io/atom.xml"/>
+    <subtitle>Bruno Leopold
+CHEM PhD |Energy Research|Data Viz|CmonCity|NASA|Tech|⚽🏀</subtitle>
+    <logo>https://ezraknotlab.github.io/images/avatar.png</logo>
+    <icon>https://ezraknotlab.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, EzraKnotLab</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://ezraknotlab.github.io/post/about-me/</id>
+        <link href="https://ezraknotlab.github.io/post/about-me/">
+        </link>
+        <updated>2023-01-12T06:01:52.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><a href="https://omwtbarca.mysxl.cn/">Another Blog</a>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1cE41197Pn/?spm_id_from=333.337.search-card.all.click&amp;vd_source=86c3119f9d7ee9a7cceb6daf9c322164">How to build this</a></li>
+<li><a href="https://gitee.com/help/articles/4136#article-header3">gitee pages built</a></li>
+</ul>
+</li>
+<li><a href="https://www.cnblogs.com/omwtbarca/">Another Blog2</a><br>
+Bruno Leopold</li>
+</ul>
+<p>🌏ShangHai&amp;Xi'an China,Barcelona Spain</p>
+<p>🕋👨‍🔬👨‍💻🥷⚽🏀<br>
+I live with no regrets.</p>
+<p>“I know I’m going to lose friends, and I’m going to go on the road less traveled with less people. But at the end of the day, I’m not trying to make friends; I’m trying to make the most money possible.”</p>
+<p>“Brazil hates me. Oh, big deal. Cry me a river, build a bridge, and walk over it.”</p>
+<p>― Colby Covington</p>
+<ul>
+<li>
+<p>At the end of the day you gotta feel some way. So why not feel unbeatable? Why not feel untouchable.</p>
+</li>
+<li>
+<p>lf you have a clear picture in your head of something that's going tohappen... then nothing can stop it.</p>
+</li>
+<li>
+<p>Excellence is not a skill, excellence is an attitude.</p>
+</li>
+<li>
+<p>l fear no man.If you breathe oxygen, l do not fear you.</p>
+</li>
+<li>
+<p>Doubt is only removed by action. lf you're not working then that's wheredoubt comes in.</p>
+</li>
+<li>
+<p>All that matters is how you see yourself.<br>
+<img src="https://ezraknotlab.github.io//post-images/1673503358020.jpg" alt="" loading="lazy"></p>
+</li>
+</ul>
+<p>contact with me<br>
+Nothing good ever comes from worrying or sitting there feeling sorry foryourself... Keep positive and keep pushing on and things will turn good.</p>
+<p>Yangpu District of Shanghai<br>
+191****2167<br>
+omwtbarca@gmail.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EKL  MCBMCE Dublin]]></title>
+        <id>https://ezraknotlab.github.io/post/ekl-mcbmce-dublin/</id>
+        <link href="https://ezraknotlab.github.io/post/ekl-mcbmce-dublin/">
+        </link>
+        <updated>2023-01-12T05:27:30.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="电网级libs储能挑战">电网级LIBs储能挑战</h1>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43db2054-7cd2-451e-ba0c-0e63a05622de/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>8h LIBs+风/太阳能+化石能源后备</li>
+<li>百太瓦时标度 hundred terawatt-hour scale</li>
+</ul>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8efb9723-061c-47f0-ac12-396088986b51/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4e50f5-71d0-45cc-88dd-8b9a635a853a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66ddecb6-394d-4410-a5b4-9503f964a9c4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="挑战">挑战：</h2>
+<ul>
+<li>火灾风险fire safety</li>
+<li>重复利用，循环recycling</li>
+</ul>
+<p>而非费用，电池寿命和制造业的挑战</p>
+<ul>
+<li>电池的软件管理，Jeff dahn 10000-20000 cycles</li>
+</ul>
+<h2 id="18-h-of-lithium-ion-battery-lib-storage">1.8 h of lithium-ion battery (LIB) storage</h2>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc2f1768-f675-48e2-8364-c3309214178f/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="2-fire-safety"><strong><strong>2 Fire Safety</strong></strong></h2>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f654e79c-06b0-40c5-b81a-56bfa84d7450/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="3-truly-green-renewable-energy"><strong><strong>3 Truly ‘Green’ Renewable Energy</strong></strong></h2>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea56bdd5-a5ab-41ed-bca5-5beca6c575ed/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h1 id="高可逆sslobs-size-matching-fe-fe-cluster-li2-xo2尺寸匹配">高可逆SSLOBs Size-Matching Fe-Fe Cluster <strong><strong>Li2-xO2</strong></strong>：尺寸匹配</h1>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf0e7f26-ede9-4204-9cd3-ad58b4ab96cc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23952e24-5565-4aad-9dcf-7271a1741e3b/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd461169-d96d-4e04-9f26-f6e59777413e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<blockquote>
+<p>设计了与反应物(Li2-xO2，0 ≤ x ≤ 2)尺寸匹配的同核Fe-Fe催化剂(Fe2-N-C ),以减轻固态电极中的氧化还原极化。原子分辨率透射电子显微镜显示，Fe-Fe团簇的空间尺寸(1.5-2)与Li2-xO2(1.2-2.2)相当，这可以克服与催化剂/反应物尺寸不匹配相关的挑战。深入的理论分析表明，Fe-Fe位置之间的轨道耦合和自旋态跃迁使得Fe中心呈现d轨道离域和高电子自旋态。这些特征增强了顺磁性氧物质的活化，优化了与LiO2的结合强度，并减小了充电/放电电压差。同时，尺寸匹配效应诱导放电产物延性生长成高度可逆的膜状形态。具有低过电位的Fe2-N-C阴极表现出显著提高的往返效率(84.9%)。这项工作的概念为设计高性能SSLOBs开辟了新的机会。</p>
+</blockquote>
+<h2 id="question">question;</h2>
+<ul class="contains-task-list">
+<li>尺寸不匹配会怎么样？ 有什么劣势？</li>
+<li>“并减小了充电/放电电压差。”，为什么会减小？ 反应物更容易结合就减小压差了吗？ 减轻极化可以理解</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9701100"><label class="task-list-item-label" for="task-item-9701100">  充放电后为什么阻抗会减小？？？(证明可逆性)</label></li>
+</ul>
+<p>看错了，S29中绿色是原本的，阻抗最小，</p>
+<p>EIS:  原本&lt;充电&lt;放电</p>
+<ul>
+<li>电池里面电压大，阻抗还小一点，归因于放电产物过氧化锂的沉积</li>
+</ul>
+<figure data-type="image" tabindex="11"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2382521-a4e0-420b-a315-3cb782f7f669/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77f6288d-4e28-4080-b746-9088a8f376bf/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66c701f0-e889-4112-89ae-246965be24d7/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>
+<p>磁化率温度曲线怎么测</p>
+<figure data-type="image" tabindex="14"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/def090d1-2ad3-459f-91b5-4c37c620f7a4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+</li>
+</ul>
+<figure data-type="image" tabindex="15"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42b76a4c-bc3f-42f8-81d4-90bd66a3c433/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90e1365f-88cc-4f49-8522-121c4d195ada/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="17"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f2fb905-2bc4-4f54-a718-e3f7f02d8386/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="tof-sims-raman-mapping-fe-fe-configuration">(TOF-SIMS, Raman mapping)   Fe-Fe configuration</h3>
+<figure data-type="image" tabindex="18"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3ab4f86-3857-4509-b9a3-00f2bafac1dc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="19"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/958613aa-10bb-4052-87aa-23322e66fcdc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="pdos分析">PDOS分析;</h3>
+<figure data-type="image" tabindex="20"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a1552ad-9d38-4df9-adc2-a84f20aeca63/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="21"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7f8222a-21e1-40c0-99d8-78dc83c7a584/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="22"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e94d544-81cb-465c-abed-102795251a36/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3aa175fe-cd74-4c8e-a371-46e9f11f8e36/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="24"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58fd06a3-31b6-4f7e-8aae-0c8de3f1d843/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="25"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdd9415f-0f4b-4672-873a-5c1227893378/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="26"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfede79a-588f-4349-b956-3d256f750e71/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="收获与其他">收获与其他：</h2>
+<ul>
+<li>磁化率温度曲线？</li>
+</ul>
+<figure data-type="image" tabindex="27"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c28c6b73-a1cd-4972-8aa1-43019ef3ad3e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>
+<p>理论计算？</p>
+<figure data-type="image" tabindex="28"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0d96c59-9686-49db-b7ca-b87ef37bf56a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+</li>
+<li>
+<p>似乎是VMD画的？</p>
+</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="电网级libs储能挑战">电网级LIBs储能挑战</h1>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43db2054-7cd2-451e-ba0c-0e63a05622de/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>8h LIBs+风/太阳能+化石能源后备</li>
+<li>百太瓦时标度 hundred terawatt-hour scale</li>
+</ul>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8efb9723-061c-47f0-ac12-396088986b51/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4e50f5-71d0-45cc-88dd-8b9a635a853a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66ddecb6-394d-4410-a5b4-9503f964a9c4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="挑战">挑战：</h2>
+<ul>
+<li>火灾风险fire safety</li>
+<li>重复利用，循环recycling</li>
+</ul>
+<p>而非费用，电池寿命和制造业的挑战</p>
+<ul>
+<li>电池的软件管理，Jeff dahn 10000-20000 cycles</li>
+</ul>
+<h2 id="18-h-of-lithium-ion-battery-lib-storage">1.8 h of lithium-ion battery (LIB) storage</h2>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc2f1768-f675-48e2-8364-c3309214178f/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="2-fire-safety"><strong><strong>2 Fire Safety</strong></strong></h2>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f654e79c-06b0-40c5-b81a-56bfa84d7450/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="3-truly-green-renewable-energy"><strong><strong>3 Truly ‘Green’ Renewable Energy</strong></strong></h2>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea56bdd5-a5ab-41ed-bca5-5beca6c575ed/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h1 id="高可逆sslobs-size-matching-fe-fe-cluster-li2-xo2尺寸匹配">高可逆SSLOBs Size-Matching Fe-Fe Cluster <strong><strong>Li2-xO2</strong></strong>：尺寸匹配</h1>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf0e7f26-ede9-4204-9cd3-ad58b4ab96cc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23952e24-5565-4aad-9dcf-7271a1741e3b/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd461169-d96d-4e04-9f26-f6e59777413e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<blockquote>
+<p>设计了与反应物(Li2-xO2，0 ≤ x ≤ 2)尺寸匹配的同核Fe-Fe催化剂(Fe2-N-C ),以减轻固态电极中的氧化还原极化。原子分辨率透射电子显微镜显示，Fe-Fe团簇的空间尺寸(1.5-2)与Li2-xO2(1.2-2.2)相当，这可以克服与催化剂/反应物尺寸不匹配相关的挑战。深入的理论分析表明，Fe-Fe位置之间的轨道耦合和自旋态跃迁使得Fe中心呈现d轨道离域和高电子自旋态。这些特征增强了顺磁性氧物质的活化，优化了与LiO2的结合强度，并减小了充电/放电电压差。同时，尺寸匹配效应诱导放电产物延性生长成高度可逆的膜状形态。具有低过电位的Fe2-N-C阴极表现出显著提高的往返效率(84.9%)。这项工作的概念为设计高性能SSLOBs开辟了新的机会。</p>
+</blockquote>
+<h2 id="question">question;</h2>
+<ul class="contains-task-list">
+<li>尺寸不匹配会怎么样？ 有什么劣势？</li>
+<li>“并减小了充电/放电电压差。”，为什么会减小？ 反应物更容易结合就减小压差了吗？ 减轻极化可以理解</li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-845537"><label class="task-list-item-label" for="task-item-845537">  充放电后为什么阻抗会减小？？？(证明可逆性)</label></li>
+</ul>
+<p>看错了，S29中绿色是原本的，阻抗最小，</p>
+<p>EIS:  原本&lt;充电&lt;放电</p>
+<ul>
+<li>电池里面电压大，阻抗还小一点，归因于放电产物过氧化锂的沉积</li>
+</ul>
+<figure data-type="image" tabindex="11"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2382521-a4e0-420b-a315-3cb782f7f669/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77f6288d-4e28-4080-b746-9088a8f376bf/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66c701f0-e889-4112-89ae-246965be24d7/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>
+<p>磁化率温度曲线怎么测</p>
+<figure data-type="image" tabindex="14"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/def090d1-2ad3-459f-91b5-4c37c620f7a4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+</li>
+</ul>
+<figure data-type="image" tabindex="15"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42b76a4c-bc3f-42f8-81d4-90bd66a3c433/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90e1365f-88cc-4f49-8522-121c4d195ada/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="17"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f2fb905-2bc4-4f54-a718-e3f7f02d8386/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="tof-sims-raman-mapping-fe-fe-configuration">(TOF-SIMS, Raman mapping)   Fe-Fe configuration</h3>
+<figure data-type="image" tabindex="18"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3ab4f86-3857-4509-b9a3-00f2bafac1dc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="19"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/958613aa-10bb-4052-87aa-23322e66fcdc/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="pdos分析">PDOS分析;</h3>
+<figure data-type="image" tabindex="20"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a1552ad-9d38-4df9-adc2-a84f20aeca63/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="21"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7f8222a-21e1-40c0-99d8-78dc83c7a584/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="22"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e94d544-81cb-465c-abed-102795251a36/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="23"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3aa175fe-cd74-4c8e-a371-46e9f11f8e36/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="24"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58fd06a3-31b6-4f7e-8aae-0c8de3f1d843/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="25"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdd9415f-0f4b-4672-873a-5c1227893378/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="26"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfede79a-588f-4349-b956-3d256f750e71/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h2 id="收获与其他">收获与其他：</h2>
+<ul>
+<li>磁化率温度曲线？</li>
+</ul>
+<figure data-type="image" tabindex="27"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c28c6b73-a1cd-4972-8aa1-43019ef3ad3e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ul>
+<li>
+<p>理论计算？</p>
+<figure data-type="image" tabindex="28"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0d96c59-9686-49db-b7ca-b87ef37bf56a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+</li>
+<li>
+<p>似乎是VMD画的？</p>
+</li>
+</ul>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
